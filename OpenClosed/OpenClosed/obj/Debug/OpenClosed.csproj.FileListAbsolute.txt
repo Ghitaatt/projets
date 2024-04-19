@@ -1,0 +1,7 @@
+C:\Users\nadia hariky\Desktop\projets\OpenClosed\OpenClosed\bin\Debug\OpenClosed.exe.config
+C:\Users\nadia hariky\Desktop\projets\OpenClosed\OpenClosed\bin\Debug\OpenClosed.exe
+C:\Users\nadia hariky\Desktop\projets\OpenClosed\OpenClosed\bin\Debug\OpenClosed.pdb
+C:\Users\nadia hariky\Desktop\projets\OpenClosed\OpenClosed\obj\Debug\OpenClosed.csproj.AssemblyReference.cache
+C:\Users\nadia hariky\Desktop\projets\OpenClosed\OpenClosed\obj\Debug\OpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\nadia hariky\Desktop\projets\OpenClosed\OpenClosed\obj\Debug\OpenClosed.exe
+C:\Users\nadia hariky\Desktop\projets\OpenClosed\OpenClosed\obj\Debug\OpenClosed.pdb

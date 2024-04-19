@@ -1,0 +1,14 @@
+C:\Users\nadia hariky\source\repos\InterfaceSeg\InterfaceSeg\bin\Debug\InterfaceSeg.exe.config
+C:\Users\nadia hariky\source\repos\InterfaceSeg\InterfaceSeg\bin\Debug\InterfaceSeg.exe
+C:\Users\nadia hariky\source\repos\InterfaceSeg\InterfaceSeg\bin\Debug\InterfaceSeg.pdb
+C:\Users\nadia hariky\source\repos\InterfaceSeg\InterfaceSeg\obj\Debug\InterfaceSeg.csproj.AssemblyReference.cache
+C:\Users\nadia hariky\source\repos\InterfaceSeg\InterfaceSeg\obj\Debug\InterfaceSeg.csproj.CoreCompileInputs.cache
+C:\Users\nadia hariky\source\repos\InterfaceSeg\InterfaceSeg\obj\Debug\InterfaceSeg.exe
+C:\Users\nadia hariky\source\repos\InterfaceSeg\InterfaceSeg\obj\Debug\InterfaceSeg.pdb
+C:\Users\nadia hariky\Desktop\projets\InterfaceSeg\InterfaceSeg\bin\Debug\InterfaceSeg.exe.config
+C:\Users\nadia hariky\Desktop\projets\InterfaceSeg\InterfaceSeg\bin\Debug\InterfaceSeg.exe
+C:\Users\nadia hariky\Desktop\projets\InterfaceSeg\InterfaceSeg\bin\Debug\InterfaceSeg.pdb
+C:\Users\nadia hariky\Desktop\projets\InterfaceSeg\InterfaceSeg\obj\Debug\InterfaceSeg.csproj.AssemblyReference.cache
+C:\Users\nadia hariky\Desktop\projets\InterfaceSeg\InterfaceSeg\obj\Debug\InterfaceSeg.csproj.CoreCompileInputs.cache
+C:\Users\nadia hariky\Desktop\projets\InterfaceSeg\InterfaceSeg\obj\Debug\InterfaceSeg.exe
+C:\Users\nadia hariky\Desktop\projets\InterfaceSeg\InterfaceSeg\obj\Debug\InterfaceSeg.pdb
